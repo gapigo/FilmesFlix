@@ -4,6 +4,8 @@ Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp Kotlin Ev
 
 Este projeto consiste em exibir uma lista de filmes, oriundas de uma API. 
 
+[Projeto original](https://github.com/natanfelipe/FilmesFlix)
+
 **Tecnologias utilizadas:**
 
 - [x] [Kotlin](https://kotlinlang.org/docs/getting-started.html)
@@ -18,6 +20,4 @@ Este projeto consiste em exibir uma lista de filmes, oriundas de uma API.
   <img src="/filmes_flix.png" width="300" />
 </p>
 
-**Desafios para os alunos:**
 
-Como devem ter observado, os filmes possuem mais informações que deixariam o app ainda melhor. Que tal criarem uma tela de detalhes de cada filme com as informações vindas da requisição? 
